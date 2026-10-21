@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sunshinecoastconcrete.com.au/sitemap.xml
